@@ -1,0 +1,31 @@
+<!-- a primeira linha indica que estamos trabalhando numa pag html-->
+<!DOCTYPE html> 
+
+ <!--" lang " indica em qual idioma o site vai ser /abertura-->
+<html lang="pt-br"> 
+
+
+
+<!--3 parte das config do site /abertura--->
+<head> 
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!--- indica que o site irá ocupar 100% da tela.--->
+    <title>Document</title> -- <!--titulo do site-->
+</head> <!--/fechamento-->
+
+
+<!--
+12-conteudo do site-->
+<body> <!--/abertura-->
+    <h1>Olá, mundo</h1><!-- o cabeçalho do site-->
+    <hr> <!---->
+    <p> Esse é o meu <strong>primeiro</strong> documento HTML! </p> <!--primeiro parágrafo-->
+
+</body><!-- /fechamento-->
+
+
+
+</html> <!--/ fechamento-->
+<!--Anotaçoes
+clicar "!" + enter  escreve automaticamente todo o codigo base.->
